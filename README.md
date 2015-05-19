@@ -7,6 +7,7 @@ vagrant-opencivicdata.org
 
 
 ## Usage
+    git clone --recursive git@github.com:opencivicdata/vagrant-opencivicdata.org.git 
 
     vagrant up db     # start a local Postgres on 10.42.2.101
 
